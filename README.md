@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabbir Ahmed Sohan</h1>
 <h3 align="center">A passionate flutter developer from Bangladesh.</h3>
-<img align="right" alt="coding" width="400" height = "300" src="https://miro.medium.com/v2/resize:fit:1400/0*zGtIUs6yiXBojG4e.gif">
+<img align="right" alt="coding" width="400" height = "200" src="https://miro.medium.com/v2/resize:fit:1400/0*zGtIUs6yiXBojG4e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsohan10&label=Profile%20views&color=0e75b6&style=flat" alt="mrsohan10" /> </p>
 
